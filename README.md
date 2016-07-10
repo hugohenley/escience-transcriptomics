@@ -12,3 +12,5 @@ Para rodar, é necessário:
 * Alterar o caminho no arquivo feature_counts.py para o local onde o seu featureCounts está localizado
 * Executar o workflow
 * Os arquivos teste.table e teste.table.summary gerados pelo workflow podem ser usados para conferência
+
+O tempo médio de execução do workflow utilizando uma VM Linux Ubuntu 14.04 com processador Intel i5, 2 núcleos, 4GB de RAM e SSD foi de 804112ms ~= 13 min
